@@ -1,0 +1,6 @@
+{
+  "service": "payment",
+  "version": "1.2",
+  "metadata_created_by": "admin",
+  "metadata_env": "prod"
+}
